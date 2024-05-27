@@ -1,0 +1,12 @@
+.increment {
+  background-color: #a1dd70;
+  font-family: "Oswald", sans-serif;
+}
+
+.reset {
+  background-color: #f3ca52;
+}
+
+.decrement {
+  background-color: #ee4e4e;
+}
