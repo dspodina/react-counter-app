@@ -24,9 +24,9 @@ function App() {
       <Title title="Counter" />
       <DisplayCounter count={count} />
       <div className="btn-container">
-        <Button text="Increment" name="increment" onClick={incrementHandler} />
+        <Button text="+" name="increment" onClick={incrementHandler} />
         <Button text="Reset" name="reset" onClick={resetHandler} />
-        <Button text="Decrement" name="decrement" onClick={decrementHandler} />
+        <Button text="-" name="decrement" onClick={decrementHandler} />
       </div>
     </div>
   );

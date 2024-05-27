@@ -13,4 +13,12 @@
   border: none;
   border-radius: 5px;
   font-size: 16px;
+  background-color: #2958A3;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.btn-container button:hover {
+  background-color: #2D60B4;
 }
